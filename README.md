@@ -1,4 +1,4 @@
-### Business Performance Dashboard
+# Business Performance Dashboard
 
 ## Overview
 
