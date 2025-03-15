@@ -1,10 +1,10 @@
-Business Performance Dashboard
+### Business Performance Dashboard
 
-Overview
+## Overview
 
 This Power BI dashboard, Business Performance, provides key insights into various business metrics, enabling data-driven decision-making. It visually represents critical performance indicators and trends to help stakeholders assess business growth and areas for improvement.
 
-Features
+## Features
 
 Key Metrics Tracking: Displays essential business performance indicators such as revenue, expenses, and profit margins.
 
@@ -14,7 +14,7 @@ Comparative Analysis: Year-over-year and month-over-month comparisons for busine
 
 Data-Driven Insights: Helps in identifying growth opportunities and areas needing attention.
 
-Data Sources
+## Data Sources
 
 The dashboard is built using structured datasets that capture:
 
@@ -26,7 +26,7 @@ Customer engagement
 
 Market trends
 
-How to Use
+## How to Use
 
 Download the .pbix file from this repository.
 
@@ -36,7 +36,7 @@ Explore different visualizations, apply filters, and interact with the data for 
 
 Modify and customize the report based on your business needs.
 
-Future Enhancements
+##Future Enhancements
 
 Integration with real-time data sources.
 
