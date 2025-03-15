@@ -36,7 +36,7 @@ Explore different visualizations, apply filters, and interact with the data for 
 
 Modify and customize the report based on your business needs.
 
-##Future Enhancements
+## Future Enhancements
 
 Integration with real-time data sources.
 
