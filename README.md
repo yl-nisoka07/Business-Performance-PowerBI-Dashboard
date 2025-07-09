@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/07981d02-51cb-4751-94b8-35fa76e7d64f)
+
 # Business Performance Dashboard
 
 ## Overview
